@@ -1,7 +1,7 @@
 # stockus_downloader
 
 ## Requirements
-[x] requests
+- [x] requests
 
 ## Usage
 
